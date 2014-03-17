@@ -319,7 +319,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#525252', endC
 /*----------------------------------------*/
 /*----- header -----*/
 #header {
-	padding: 80px 0 20px 0;
+	padding: 0px 0 20px 0;
 }
 /*----- header-btm -----*/
 #header-btm {
@@ -327,7 +327,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#525252', endC
 }
 /*----- content -----*/
 #content {
-	padding-top: 50px;
+	padding-top: 80px;
 }
 /*----- row-color -----*/
 .row-color {
@@ -606,9 +606,9 @@ margin: 10px auto;
 /*----------------------------------------*/
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 #slider-bg {
- background: url(../img/iPhone-mockup.png) no-repeat left top;
+ background: url(../img/iPhone5s-mockup.png) no-repeat left top;
  width: 460px;
- height: 788px;
+ height: 845px;
  position: relative;
  top: 0;
  left: 0;
